@@ -19,4 +19,7 @@ Para realização deste trabalho foi realizado um grupo composto por 6 pessoas, 
 Este repositório contém as seguintes informações:
 
 1 - Traduções individuais do Capítulo 6 e 7 do site, juntamente com as partes "Introduction" e "Altair Debugging Guide", realizada por meio da divisão do serviço;
+
 2 - Arquivo Final representado por "nome_do_capitulo_nome_do_grupo";
+
+OBS: As demais traduções foram obtidas por meio das outras traduções.
